@@ -49,6 +49,6 @@ then?
 
 */
 
-function maleCount(array){
+function femaleCount(array){
 
 };
